@@ -49,7 +49,7 @@ public class TicTacToe {
                 boardPanel.add(tile);
 
                 tile.setBackground(Color.darkGray);
-                tile.setForeground(Color.white);
+                tile.setForeground(Color.yellow);
                 tile.setFont(new Font("Arial", Font.BOLD, 120));
                 tile.setFocusable(false);
                 // tile.setText(currentPlayer);
